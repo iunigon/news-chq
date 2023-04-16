@@ -1,15 +1,15 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+name: 'CHQ news'
+description: 'CHQ news is a website with intresting news.'
+logo: 'https://chqhub.files.wordpress.com/2022/08/cropped-chqiulogo.png'
+favicon: 'https://chqhub.files.wordpress.com/2022/08/cropped-chqiulogo.png'
 baseurl: 
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+email: 'chq@ungion.net'
+mailchimp-list: ''
 
 include: ["_pages"]
-permalink: /:title/
+permalink: /news/:title/
 
 # Plugins
 plugins: 
@@ -19,9 +19,9 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+    chq:
+      name:           CHQ
+      site:           https://chq.ungion.net
       avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
       email:          wowthemesnet@gmail.com
